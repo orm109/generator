@@ -1,0 +1,25 @@
+{
+  "name": "tmp_csv_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "chance": "^1.0.16",
+    "json2csv": "^4.1.5",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orm109/generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orm109/generator/issues"
+  },
+  "homepage": "https://github.com/orm109/generator#readme"
+}
